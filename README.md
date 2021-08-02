@@ -70,4 +70,4 @@ afs_afsd_opts=-dynroot-sparse -fakestat -afsdb
 ansible_user=USERNAME
 ```
 ## Questions?  Comments?
-Please file any issues you have in the [Github Issues](https://github.com/Aquila-Technology/testcell/issues) page for this repository.
+Please file any issues you have in the [Github Issues](../../issues) page for this repository.
